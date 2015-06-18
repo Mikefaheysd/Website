@@ -1,0 +1,73 @@
+.nav a {
+  color: #fff;
+  font-size: 28px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav{
+    width:100%;
+    background-color:black;
+    text-align:center;
+    position:fixed;
+}
+
+.nav ul li{
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://cursos-idiomas-extranjero.englishsummer.com/uploads/Hepner_Hall-san-diego.jpg');
+  height: 1000px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:750px;
+}
+
+.jumbotron h2 {
+  text-align:center;
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  margin-top:-30px;
+}
+
+.jumbotron p {
+  font-size: 22px;
+  color: #fff;
+  text-align:center;
+  margin-top:-10px;
+}
+
+.jumbotron h1{
+    font-family:'Shift';
+    font-weight:bold;
+    text-align:center;
+    margin-top:50px;
+    color:#fff;
+}
+
+.learn-more {
+  background-color: black;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color:white;
+}
+
+.learn-more p{
+    color:white;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
