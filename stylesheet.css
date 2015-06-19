@@ -1,6 +1,8 @@
+/*index html*/
 body{
-  background: black;
+  background: #36454f;
 }
+
 .nav a {
   color: #fff;
   font-size: 28px;
@@ -75,6 +77,7 @@ body{
   color: #00b0ff;
 }
 
+/*Resume html*/
 .resume{
   display: block;
   margin-left: auto;
@@ -83,6 +86,7 @@ body{
 
 }
 
+/*Contact html*/
 .contact{
   position: absolute;
   margin-top:100px;
@@ -90,7 +94,6 @@ body{
   font-family: 'Shift', sans-serif;
   font-size: 30px;
   text-align: center;
-  background-color: black;
   width:100%;
 }
 
